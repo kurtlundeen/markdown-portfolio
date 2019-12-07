@@ -1,7 +1,7 @@
 # My favorite things
--Stuff
--Junk
--Whatnot
-  -Scat
-  -Crap
-  -Bodily waste
+- Stuff
+- Junk
+- Whatnot
+  - Scat
+  - Crap
+  - Bodily waste
